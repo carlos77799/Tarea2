@@ -1,0 +1,6 @@
+C:\Users\Borrero\Desktop\curioso>git log
+commit 78d85629d96ce98945c8ddc933f600e55f09d356 (HEAD -> master)
+Author: carlos77799 <borrerojean12@gmail.com>
+Date:   Fri Nov 1 22:48:02 2024 -0500
+
+    implementar la visualizacion de los envios

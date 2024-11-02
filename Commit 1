@@ -1,0 +1,6 @@
+C:\Users\Borrero\Desktop\tarea2>git log
+commit 27c638114080815cd05670ee4d6d449c4a050a59 (HEAD -> master)
+Author: carlos77799 <borrerojean12@gmail.com>
+Date:   Fri Nov 1 21:38:55 2024 -0500
+
+    implementar la funcion de registros de envios
